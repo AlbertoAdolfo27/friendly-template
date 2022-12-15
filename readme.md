@@ -45,7 +45,6 @@ $template->drawTemplate("footer.php");
 - 2\. **header.php** file, placed in the **views/** directory
 
 ```php
-<?php
 <!DOCTYPE html>
 <html lang="en">
 
@@ -77,7 +76,6 @@ $template->drawTemplate("footer.php");
 - 4\. **footer.php** file, placed in the **views/** directory
 
 ```php
-<?php
 <div class="footer">
     <p>Footer</p>
 </div>
