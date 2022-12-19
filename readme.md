@@ -13,7 +13,7 @@ PHP Library to creating HTML templates
 installation using [composer](https://getcomposer.org/)
 
 ```compose
-composer require albertoadolfo27/friendly-template
+composer require albertoadolfo27/friendly_template
 ````
 
 ### Quick Examples
