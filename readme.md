@@ -1,4 +1,4 @@
-# PHP Friendly Templete
+# PHP Friendly Template
 
 PHP Library to creating HTML templates
 
