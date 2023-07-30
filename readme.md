@@ -18,7 +18,7 @@ composer require albertoadolfo27/friendly_template
 
 ### Quick Examples
 
-#### Drawing a templete
+#### Drawing a template
 
 - 1\. **index.php** file
 
