@@ -31,7 +31,7 @@ class Template
 	
     // ------------------------------------------------------------------------
     // DRAW TEMPLATE
-	public function drawTemplate($templateName, $data = array())
+	public function draw($templateName, $data = array())
     {
         $this->mergeData($data);
         extract($this->data);

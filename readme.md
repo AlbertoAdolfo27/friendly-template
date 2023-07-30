@@ -33,13 +33,13 @@ use FriendlyTemplate\Template;
 $template = new Template("views/");
 
 // Draw the Header
-$template->drawTemplate("header", array("title" => "Hello World!"));
+$template->draw("header", array("title" => "Hello World!"));
 
 // Draw the Main Content
-$template->drawTemplate("content", array("user" => "John Doe"));
+$template->draw("content", array("user" => "John Doe"));
 
 // Draw the Footer
-$template->drawTemplate("footer.php");
+$template->draw("footer.php");
 ```
 
 - 2\. **header.php** file, placed in the **views/** directory
