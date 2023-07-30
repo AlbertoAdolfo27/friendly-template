@@ -27,7 +27,7 @@ composer require albertoadolfo27/friendly_template
 // Require the Composer autoloader.
 require_once "vendor/autoload.php";
 
-use FriendlyTemplete\Template;
+use FriendlyTemplate\Template;
 
 // Instantiate a Template, passing the base directory of the template files.
 $template = new Template("views/");
