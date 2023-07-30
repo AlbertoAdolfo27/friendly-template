@@ -1,5 +1,5 @@
 <?php
-namespace FriendlyTemplete;
+namespace FriendlyTemplate;
 
 class Template
 {
